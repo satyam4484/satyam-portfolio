@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/satyam-portfolio/static/css/main.aa29f899.css",
+    "main.js": "/satyam-portfolio/static/js/main.97317dc5.js",
+    "static/media/tikitaka.png": "/satyam-portfolio/static/media/tikitaka.61fe056cf0b578b33baf.png",
+    "static/media/pinterest.png": "/satyam-portfolio/static/media/pinterest.16662febb19a8aaf6833.png",
+    "pdf.worker.js": "/satyam-portfolio/e7e915313973ba1d49f9bb2a1998626e.js",
+    "static/media/crypto.png": "/satyam-portfolio/static/media/crypto.9623d079267321a452a1.png",
+    "static/media/ecommerce.png": "/satyam-portfolio/static/media/ecommerce.ca5e32b69a278395d861.png",
+    "static/media/resumebuilder.png": "/satyam-portfolio/static/media/resumebuilder.ffdac0a157ec18ae155c.png",
+    "static/media/satyam.pdf": "/satyam-portfolio/static/media/satyam.3569239be2b589efa671.pdf",
+    "static/media/authentication.png": "/satyam-portfolio/static/media/authentication.f67fd1fcd48ac1559b87.png",
+    "static/media/blog.png": "/satyam-portfolio/static/media/blog.b0bac6128455c3038209.png",
+    "static/media/pr.svg": "/satyam-portfolio/static/media/pr.e7fd0478451b8d72ff9b93b1ea475b66.svg",
+    "static/media/about.svg": "/satyam-portfolio/static/media/about.5171a47cd91f77bbaa3efd4893e62d63.svg",
+    "index.html": "/satyam-portfolio/index.html",
+    "main.aa29f899.css.map": "/satyam-portfolio/static/css/main.aa29f899.css.map",
+    "main.97317dc5.js.map": "/satyam-portfolio/static/js/main.97317dc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa29f899.css",
+    "static/js/main.97317dc5.js"
+  ]
+}
