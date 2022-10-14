@@ -5,7 +5,7 @@ const Footer = () => {
     <Container fluid className="mt-5 mb-2 footer">
       <div className="row justify-content-evenly">
         <div class="col-md-12 text-center">
-          <p className="fs-4">
+          <p >
             Copyright &copy;
             <script>document.write(new Date().getFullYear());</script> All
             rights reserved | Satyam Singh

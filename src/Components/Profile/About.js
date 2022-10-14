@@ -12,16 +12,16 @@ const About = () => {
         <h2 className="mb-4 text-warning fw-bold" data-aos="zoom-in-up">
           <u>About Me</u>
         </h2>
-        <p className="my-3 text-dark" data-aos="fade-right">
+        <p className="my-3 text-dark text-wrap" data-aos="fade-right">
           Passionate Full-stack developer with 6+ months of hands-on-experience
           in developing scalable websites/applications using a wide range of
           front-end and back-end skills like
-          <b>HTML,CSS,Python,JavaScript,ReactJs,Django </b>etc.Developed 8+
+          <b>HTML ,CSS ,Python ,JavaScript ,ReactJs ,Django </b>etc.Developed 8+
           websites from Scratch.Looking to furthur enhance HTML5,CSS3,JS skills
           as the full stack developer.
         </p>
 
-        <ul className="about-info px-md-0 px-2 my-md-5 my-3 fs-5">
+        <ul className="about-info px-md-0 px-2 my-md-5 my-3 fs-md-5">
           <li className="d-flex my-1" data-aos="fade-up">
             <span className="fw-bold fs-md-3">Name:</span>
             <span className="ms-md-3 ms-1 fs-md-3">Satyam Singh</span>
@@ -67,7 +67,7 @@ const About = () => {
         <ViewPdf show={showModal} onHide={() => setShowModal(false)} />
       </Col>
 
-      <Col sm={12} md={4} className="mt-5" data-aos="flip-left">
+      <Col xs={10} md={4} className="mt-5" data-aos="flip-left">
         <img src={about} className="img-fluid bounce" />
       </Col>
     </section>

@@ -2,10 +2,17 @@ import { Container, Nav, Navbar, DropDown } from "react-bootstrap";
 
 const MyNav = () => {
   return (
-    <Navbar collapseOnSelect variant="dark" fixed="top" className="my__nav" expand="md">
+    <Navbar
+      collapseOnSelect
+      variant="dark"
+      fixed="top"
+      className="my__nav"
+      expand="md"
+    >
       <Container fluid="md" className="mx-auto">
-        <Navbar.Brand  className="nav__heading mx-auto fw-bold">
-            Sa<span className="text-info">tyam</span> S<span className="text-warning">ing</span>h</Navbar.Brand>
+        <Navbar.Brand className="nav__heading mx-auto fw-bold text-info">
+          Satyam Singh
+        </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mx-sm-auto">
@@ -16,8 +23,6 @@ const MyNav = () => {
             <Nav.Link href="#project">Projects</Nav.Link>
             <Nav.Link href="#skills">Skills</Nav.Link>
           </Nav>
-
-          
         </Navbar.Collapse>
       </Container>
     </Navbar>

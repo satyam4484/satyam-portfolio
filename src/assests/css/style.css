@@ -1,5 +1,6 @@
 * {
   scroll-behavior: smooth;
+  box-sizing: border-box;
 }
 
 body {
@@ -217,7 +218,7 @@ body {
 }
 
 .bounce {
-  animation: bounce 0.5s;
+  animation: bounce 5s;
   animation-direction: alternate;
   animation-iteration-count: infinite;
 }

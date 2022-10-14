@@ -28,8 +28,6 @@ export const social = [
   {link:"https://www.linkedin.com/in/satyam4484/",img:linkedin}
 ]
 
-//     tools:['Django','rest-framework','React js','KendoReact','Bootstrap','Css','Html','Postman'],
-
 export const colors= {
   'Django':'info',
   'rest-framework':'primary',
